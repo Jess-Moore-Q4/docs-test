@@ -1,2 +1,2 @@
-- [Home](README.md)
+- [Home](home.md)
 - [Other Page](otherpage.md)
